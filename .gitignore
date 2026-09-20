@@ -2,6 +2,10 @@
 *.key
 *.pem
 node_modules/
+data/
+*.db
+*.db-shm
+*.db-wal
 .venv/
 venv/
 dist/
